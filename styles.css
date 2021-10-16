@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
-.logo {
+.logo { /*This CSS code determines the size of my logo on the navigation bar */
     width:250px;
     height: 200px;
 }
 
-.rownavbar{
+.rownavbar{ /*Determines the size of the table that organises my navigation bar at the top of the page*/ 
     width: 100%;
 }
 
@@ -14,11 +14,11 @@ body {
     margin: 0;
 }
 
-.innertable {
+.innertable { /*Determines the size and alignment of the table that organises my navigation bar at the top of the page*/ 
     text-align: center;
     width:100%;
 }
-header a {
+header a { /*This part determines specifics for the buttons on my navigation bar*/
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
@@ -33,7 +33,7 @@ header a {
 }
 
 
-header  a:hover{
+header  a:hover{ /*Changes the colour of the buttons on the navigation bar when the user hover over it */
     color: #98D4C9;
 }
 
