@@ -43,7 +43,7 @@ header  a:hover{ /*Changes the colour of the buttons on the navigation bar when 
     box-shadow: inset 0 0 10px black;
 }
 
-body img {
+body img { 
     width: 500px;
     height: 300px;
 }
@@ -87,7 +87,7 @@ body img {
     box-shadow: inset 0 0 10px black;
 }
 
- .footer {
+ .footer { /*This for the footer.*/
     margin:0;
     font-size: 10px;
     text-align: center;
@@ -111,7 +111,7 @@ body img {
      color:cadetblue;
  }
 
-.whatisncea {
+.whatisncea { /*Below code is for the text on the page 'What is NCEA?'*/
     padding: 10px 10px 10px 10px;
     margin: 0;
     border-top:hidden;
@@ -128,7 +128,7 @@ body img {
 
  }
 
- .nceatable {
+ .nceatable { /*Below codes for the table that displays the number of credits needed for each level*/
     border-collapse: collapse;
     margin: 5px;
     font-family: 'Roboto Condensed', sans-serif;
@@ -140,7 +140,7 @@ body img {
     padding: 5px;
  }  
 
- .iframetable table{
+ .iframetable table{ /*Below code is for the video*/
      float: right;
      padding: 12px;
  }
