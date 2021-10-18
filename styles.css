@@ -149,3 +149,28 @@ body img {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 18px;
  }
+
+ .subjecttable {
+    margin: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+
+ }
+
+ .subjecttable table {
+    width: 100%;
+    border-collapse: collapse;
+    padding: 5px;
+    
+ }
+ 
+ .subjecttable tr{
+     border: none;
+ }
+
+ .subjecttable td {
+     border-right: 1px solid black;
+     border-left: 1px solid black;
+     padding: 5px;
+ }
+ 
