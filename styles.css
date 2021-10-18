@@ -145,23 +145,20 @@ body img {
      padding: 12px;
  }
 
- h4 {
+ h4 { /*Credit for the video*/
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 18px;
  }
 
- .subjecttable {
+ .subjecttable { /*Below is the CSS code for the table in the 'Subjects' Page*/
     margin: 5px;
     font-family: 'Roboto Condensed', sans-serif;
-    
-
  }
 
  .subjecttable table {
     width: 100%;
     border-collapse: collapse;
     padding: 5px;
-    
  }
  
  .subjecttable tr{
@@ -174,7 +171,7 @@ body img {
      padding: 5px;
  }
  
- .text h3, p {
+ .text h3, p { /*Below is the CSS for the body text in 'How To Nail Exams'*/
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 22px;
     padding: 20px;
