@@ -174,7 +174,7 @@ body img {
  .text h3, p { /*Below is the CSS for the body text in 'How To Nail Exams'*/
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 22px;
-    padding: 20px;
+    padding: 20px; 
     margin-top: 0;
  }
 
@@ -183,6 +183,7 @@ body img {
     font-size: 35px;
     padding: 20px;
     background: rgba(114, 218, 247, .4);
+    margin-top: 0;
  }
 
  .text h2 {
